@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nylan's Webpage</title>
+        <style>
+            h1{font-color="yellow"}
+            
+        </style> 
+    
+    
+    </head>
+    
+     
+     
+<h1>Welcome to Nylan's webpage</h1>
+
+<h2>My hobbies</h2>
+    <ol>I love reading (mainly comic books) and one of the comics I've been reading is called Room of Swords</ol>
+    <img src="https://i.ytimg.com/vi/GHgoB-tJJTQ/maxresdefault.jpg"
+    width="350px" height="200px">
+    <ol>I play a wealthy amount of games usually on my Xbox but I play on my comptuer as well(Also I main Iron Giant and Bugs in Multiversus :))</ol>
+    <img src="https://www.theloadout.com/wp-content/uploads/2022/07/multiversus-iron-giant-best-perks.jpg"
+    width="300px" height="200px">
+    <ol>My dream job in the future would be either being a computer scientist or playing football</ol>
+    
+
+
+<h2>Link to the game im making (Image is not actual game but they have the same name)</h2>
+<h3>The game is a really simple concept it is a 2 player Bow and Arrow game</h3>
+<a href="https://scratch.mit.edu/projects/713449840/">
+    <img src="https://megacool.medal.tv/blog/content/images/size/w2000/2019/03/maxresdefault.jpg"
+    width="200px" height="200px"
+    > 
+<h2>Second Page (Goku vs Saitama)</h2>  
+   <a href="https://codehs.com/sandbox/id/second-webpage-nt6Oc3">
+    <img src="https://www.anynextseason.com/wp-content/uploads/2021/12/Goku-VS-Saitama-Power-Levels-54.jpg"
+    width="500px" height="300px"
+    >
+    </body>
+</html>
